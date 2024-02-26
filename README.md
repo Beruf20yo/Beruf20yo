@@ -13,7 +13,15 @@
 </div>
 
 ---  
+# Хорошие проекты
 
+[Сетевой чат](https://github.com/Beruf20yo/NetworkChat)  
+    [Простой банк](https://github.com/Beruf20yo/SimpleBank)
+  
+</details>
+  
+---  
+# Обучение Java
 <details><summary>Java Core</summary>
 
    * Функциональное программирование и лямбда-выражения
