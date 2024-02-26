@@ -30,9 +30,9 @@
    * Mockito. Мокирование вызовов, Mock, Stub
      + [Геолокация](https://github.com/Beruf20yo/GeoServise)
      + [Медицина](https://github.com/Beruf20yo/HealthCareService)
-   * [Основы работы с сетью. Модель OSI]()
-   * [Протокол HTTP. Вызов удаленных серверов]()
-   * [JVM. Организация памяти, сборщики мусора, VisualVM]()
+   * [Основы работы с сетью. Модель OSI](https://github.com/Beruf20yo/OSIModel)
+   * [Протокол HTTP. Вызов удаленных серверов](https://github.com/Beruf20yo/HttpTask)
+   * [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Beruf20yo/JVMUnderstanding/blob/main/README.md)
 
 </details>
 <details><summary>Java Core</summary>
