@@ -35,8 +35,20 @@
    * [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Beruf20yo/JVMUnderstanding/blob/main/README.md)
 
 </details>
-<details><summary>Java Core</summary>
+<details><summary>Шаблоны проектирования</summary>
 
-   * Функциональное программирование и лямбда-выражения
+   * [Порождающие шаблоны](https://github.com/Beruf20yo/GenerativeDesignPatterns)
+   * [Структурные шаблоны](https://github.com/Beruf20yo/StructuralDesignPatterns)
+   * [Поведенческие шаблоны](https://github.com/Beruf20yo/BehavioralDesignPatterns)
+   * [Magics, DRY, SOLID](https://github.com/Beruf20yo/ShopSolid)
+
+</details>
+<details><summary>Многопоточное и функциональное программирование</summary>
+
+   * [Работа с потоками](https://github.com/Beruf20yo/RangeOfValues)
+   * [Работа с синхронизацией](https://github.com/Beruf20yo/SynchronizationThreads)
+   * [Переменные многопоточной программы](https://github.com/Beruf20yo/NicknameGenerator)
+   * [Коллекции для параллельной работы](https://github.com/Beruf20yo/AnalyzerProg)
+
 
 </details>
