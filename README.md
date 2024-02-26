@@ -17,8 +17,8 @@
 
 ---  
 # Хорошие проекты  
-[Сетевой чат](https://github.com/Beruf20yo/NetworkChat)  
-[Простой банк](https://github.com/Beruf20yo/SimpleBank)   
+### [Сетевой чат](https://github.com/Beruf20yo/NetworkChat)  
+### [Простой банк](https://github.com/Beruf20yo/SimpleBank)   
 # :fire: My Stats :
 <img alt="Beruf20yo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=beruf20yo&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=c%2B%2B,Ren'Py" height="198px"/>
 <img alt="Beruf20yo's streak" src="http://github-readme-streak-stats.herokuapp.com?user=beruf20yo&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
