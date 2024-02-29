@@ -13,6 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
 </div>
 
 ---  
@@ -68,6 +69,7 @@
 <details><summary>Web, Spring & Spring MVC</summary>
 
    * [HTTP и современный Web. Формы и форматы передачи данных](https://github.com/Beruf20yo/WebHTTP)
+   * [Servlets Containers](https://github.com/Beruf20yo/ServletsContainers)
 
 
 </details>
